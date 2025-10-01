@@ -170,4 +170,3 @@ If you encounter any issues:
 - Ensure all files are in correct locations  
 - Run `npm install` to install dependencies  
 - Check that Node.js is properly installed  
-- Contact: [your-email@example.com]
